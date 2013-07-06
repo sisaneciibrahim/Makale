@@ -21,8 +21,30 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{kramer2009cyberpower}
-F.~D. Kramer and S.~H. Starr, \emph{Cyberpower and national security}.\hskip
-  1em plus 0.5em minus 0.4em\relax Potomac Books, Inc., 2009.
+\bibitem{maughan2009roadmap}
+D.~Maughan \emph{et~al.}, ``A roadmap for cybersecurity research,'' \emph{US
+  Department of Homeland SecurityNovember}, vol. 2009, 2009.
+
+\bibitem{OxfordDictionary:2013}
+\BIBentryALTinterwordspacing
+(2013, Jun.) Oxford dictionaries. [Online]. Available:
+  \url{http://oxforddictionaries.com/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Barzilay:2013:ISACAOnline}
+\BIBentryALTinterwordspacing
+M.~Barzilay. (2013, May) A simple definition of cybersecurity. [Online].
+  Available:
+  \url{http://www.isaca.org/Knowledge-Center/Blog/Lists/Posts/Post.aspx?ID=296}
+\BIBentrySTDinterwordspacing
+
+\bibitem{kurt2012cyber}
+U.~Kurt, ``Cyber security: A road map for turkey,'' DTIC Document, Tech. Rep.,
+  2012.
+
+\bibitem{garcia1997fundamentals}
+M.~L. Garcia and O.~H. Bray, \emph{Fundamentals of technology
+  roadmapping}.\hskip 1em plus 0.5em minus 0.4em\relax Sandia National
+  Laboratories Albuquerque, NM, 1997.
 
 \end{thebibliography}
